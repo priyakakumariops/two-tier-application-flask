@@ -1,4 +1,8 @@
  # My project done
+ ![1700754331200](https://github.com/priyakakumariops/two-tier-application-flask/assets/136331805/17284a8d-13a7-4a73-8b61-991df90c53be)
+ 
+![1700754331431](https://github.com/priyakakumariops/two-tier-application-flask/assets/136331805/9bc7a538-fc96-4875-989b-40c704961005)
+
 # Flask App with MySQL Docker Setup
 
 This is a simple Flask app that interacts with a MySQL database. The app allows users to submit messages, which are then stored in the database and displayed on the frontend.
